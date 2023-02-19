@@ -2,13 +2,13 @@
  Demo project using Spring Boot and Java
  
 ## Donut Priority Queue:
- Jim works in the production facility of a premium online donut retailer. He i s
+ Jim works in the production facility of a premium online donut retailer. He is
  responsible for bringing donuts to the pickup counter once they’re done. But the
  manager is not satisfied because either it takes too long before a delivery arrives, or
  only a few items arrive. Jim’s manager wants to fix this and asks Jim to write a web
  service that accepts the orders and provides a list of items to deliver to the pickup
  counter. Desperate Jim remembers his friend who is working in a software company
- as a software engineer ... and your phone rings. Can you help Jim?
+ as a software engineer and your phone rings. Can you help Jim?
  
 ## Problem Statement:
  * The service should implement a RESTful interface
