@@ -1,0 +1,4 @@
+FROM postgres
+ENV POSTGRES_USER postgres
+ENV POSTGRES_PASSWORD admin202
+ENV POSTGRES_DB donut_order

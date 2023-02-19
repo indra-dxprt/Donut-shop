@@ -1,0 +1,16 @@
+server.port: 8080
+
+spring:
+  datasource:
+    username: postgres
+    password: admin202
+    url: jdbc:postgresql://localhost:5432/donut_order
+  jpa:
+    defer-datasource-initialization: true
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+#  sql:
+#    init:
+#      mode: always
+#      data-locations: classpath:appdata.sql
